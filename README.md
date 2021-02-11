@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-  <head>
-    <title>Colas</title>
-    <meta charset="utf-8" />
-  </head>
-  <body>
     <div class="hello">
     <img src="./estrutura.jpg" alt="Foto da estrutura de pastas" width="500" height="600">
 
@@ -172,9 +165,6 @@
         "eslint . --ext .ts --fix" }
       </p>
     </div>
-
-  </body>
-</html>
 
 <style>
   div {
